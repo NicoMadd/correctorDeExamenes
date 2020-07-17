@@ -1,0 +1,14 @@
+2)Para evaluar el puntaje total se suman todos los puntajes de cada pregunta
+
+Para calcular el puntaje respondido se calcula el puntaje de cada pregunta y se suman
+
+Luego se usa el criterio para calcular el puntaje final del examen
+
+3) a)Se podria agregar un id por pregunta y al momento de calcular el puntaje total discriminar con el id si esas fueron correctamente contestadas
+
+b)
+i) si la pregunta esta mal se modifica para que sea 0.
+ii)
+iii)Se utiliza un contador externo y se va sumando para luego restar al valor final
+
+
